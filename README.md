@@ -1,6 +1,6 @@
 # Simple Python / Redis App
 
-## Instructions
+### Instructions
 
 Make sure you have Docker installed.
 
