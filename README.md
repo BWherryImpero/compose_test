@@ -26,3 +26,6 @@ Visit http://localhost:8000 in your browser a couple of times.
 ## !Yo mang3
 
 ## !Yo mang4
+Thom say's Meep!
+Thom say's Beep!
+Thom say's Quack!
